@@ -1,3 +1,3 @@
 # WebAudioSynth
 
-Web audioSynth, better functioning on Firefox, uses Nexus UI, Vanilia Web audio
+Web audioSynth, works on Firefox, uses Vanilia Web audio, Nexus UI.
