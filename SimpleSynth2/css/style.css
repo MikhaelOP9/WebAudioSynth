@@ -1,0 +1,198 @@
+html {
+  background-color:rgb(50, 50, 50); 
+  font:  "Fira Sans", sans-serif;
+}
+h1 {
+  color : rgb(200, 200, 200); 
+  font: 1.2em "Fira Sans", sans-serif;
+  border : 2px;
+}
+#Labels{
+  margin-left: 90px;
+  color : rgb(200, 200, 200); 
+  font: 1em "Fira Sans", sans-serif;
+  display: flex;
+  flex: auto;
+  margin-bottom: 5px;
+}
+#pitchLabel{
+  margin-left: 14px !important;
+}
+#filterRadio{
+  margin-bottom: 22px;
+}
+#gainLabel{
+  margin-left: 23px !important;
+}
+#ampEnv{
+  display: flex;
+  justify-content: space-evenly;
+  
+}
+#ampEnvRow{
+  border :2px solid;
+  border-color: white;
+  padding-top: 17px;
+  margin-top: 6px;
+  padding-bottom: 33px;
+  margin-left: 10px;
+  margin-right: -12px;
+  margin-bottom: 12px;
+}
+#bpLabel{
+  margin-left: -5px;
+}
+#hpLabel{
+
+}
+#filterEnv{
+  display: flex;
+  justify-content: space-evenly;
+}
+#masterGainLabel{
+  margin-left: 233px;
+}
+#masterGain{
+  margin-left: 233px;
+}
+.waveFormRadio{
+  height: 20px;
+}
+#keyboard {
+  position:relative;
+}
+#masterGain{
+  align-self: right;
+}
+.getRowGlobal {
+  display: flex;
+  flex:1;
+  border :2px solid;
+  border-color: white;
+  color : whitesmoke;
+  max-width: 676px;
+  padding: 10px;
+  color : rgb(200, 200, 200); 
+  font: 1em "Fira Sans", sans-serif;
+}
+
+.getRow1 {
+  display: flex;
+  /* flex:1; */
+  border :2px solid;
+  border-color: white;
+  color : whitesmoke;
+  max-width: 210px;
+  padding: 10px;
+  color : rgb(200, 200, 200); 
+  font: 1em "Fira Sans", sans-serif;
+}
+.getRow2 {
+  display: flex;
+  border :2px solid;
+  border-color: white;
+  color : whitesmoke;
+  max-width: 210px;
+  padding: 10px;
+  color : rgb(200, 200, 200); 
+  font: 1em "Fira Sans", sans-serif;
+}
+.getRow3 {
+  display: flex;
+  border :2px solid;
+  border-color: white;
+  color : whitesmoke;
+  max-width: 210px;
+  padding: 10px;
+  color : rgb(200, 200, 200); 
+  font: 1em "Fira Sans", sans-serif;
+}
+.getRow4 {
+  display: flex;
+  border :2px solid;
+  border-color: white;
+  color : whitesmoke;
+  max-width: 210px;
+  padding: 10px;
+  color : rgb(200, 200, 200); 
+  font: 1em "Fira Sans", sans-serif;
+}
+#filterRow {
+  display: flex;
+  flex :row;
+  border :2px solid;
+  border-color: white;
+  color : whitesmoke;
+  max-width: 210px;
+  padding: 10px;
+  color : rgb(200, 200, 200); 
+  font: 1em "Fira Sans", sans-serif;
+  padding: 17px;
+  margin-bottom: 2px;
+  padding-top: 9px;
+
+}
+#lfoRack{
+
+}
+#lfoEtFiltreColumn{
+display : flex;
+flex: column
+}
+#lfoDial {
+  display: flex;
+  flex :row;
+  border :2px solid;
+  border-color: white;
+  color : whitesmoke;
+  max-width: 210px;
+  padding: 10px;
+  color : rgb(200, 200, 200); 
+  font: 1em "Fira Sans", sans-serif;
+  padding: 22px;
+  padding-top: 14px;
+  margin-bottom: 11px;
+  margin-top: 0px;
+}
+#lfoWaveFormRadioTitle{
+  display : flex;
+  flex: row;
+justify-content: space-evenly;
+margin-left: -18px;
+}
+
+#filterFreqDial {        
+  display : flex;
+  border: 1px solid;
+  margin : 10px;
+  color : rgb(200, 200, 200); 
+  font: 0.8em "Fira Sans", sans-serif;
+  
+}
+#filterDial{
+  display: flex;
+  flex:1;
+  justify-content: space-evenly;
+  border :2px solid;
+  border-color: white;
+  padding-bottom: 19px;
+  padding-top:10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: -5px;
+}
+#filterMetroTitle {
+  display: flex;
+justify-content: space-around;
+
+}
+#filterEnvRow{
+  padding-top: 6px;
+border :2px solid;
+border-color: white;
+margin-top: -13px;
+padding-bottom: 32px;
+margin-left: 10px;
+margin-right: -12px;
+margin-bottom: 10px;
+}
