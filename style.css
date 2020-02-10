@@ -161,7 +161,8 @@ flex: column
   display : flex;
   flex: row;
 justify-content: space-evenly;
-margin-left: -24px;
+margin-left: 0px;
+margin-right: 26px;
 }
 
 #filterFreqDial {        
